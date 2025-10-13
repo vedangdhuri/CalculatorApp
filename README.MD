@@ -47,4 +47,6 @@ python app.py
 ```
 
 ## Screenshot
-<img src="https://github.com/vedangdhuri/images/blob/main/calculator-img.png?raw=true" alt="calculatorIMG" align="cneter">
+<div align="center">
+   <img src="https://github.com/vedangdhuri/images/blob/main/calculator-img.png?raw=true" alt="calculatorIMG">
+</div>
